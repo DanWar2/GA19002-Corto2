@@ -1,0 +1,7 @@
+com\progra2\persistencia\Usuario.class
+com\mycompany\ga19002\JAXRSConfiguration.class
+com\progra2\persistencia\exceptions\PreexistingEntityException.class
+com\progra2\persistencia\exceptions\IllegalOrphanException.class
+com\progra2\persistencia\UsuarioJpaController.class
+com\mycompany\ga19002\resources\JavaEE8Resource.class
+com\progra2\persistencia\exceptions\NonexistentEntityException.class
